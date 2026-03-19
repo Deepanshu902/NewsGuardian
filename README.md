@@ -29,8 +29,8 @@ During evaluation, flagged ~30% of sampled news content as potentially unreliabl
 
 1. Clone the repo
 ```sh
-   git clone https://github.com/Deepanshu902/NewsGaurdian.git
-   cd NewsGaurdian
+   git clone https://github.com/Deepanshu902/NewsGuardian.git
+   cd NewsGuardian
 ```
 
 2. Set up your API key  
